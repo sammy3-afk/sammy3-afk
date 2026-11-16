@@ -9,11 +9,10 @@ I enjoy experimenting with ideas, learning new tools, and building
 projects that combine software with real-world applications.  
 ### Currently working on:
 * learning C++
-* game development                                                 <img width="335" height="208" alt="download (1)" src="https://github.com/user-attachments/assets/783d2f25-3bba-46e0-a80f-aa717db74c8a" />
-
+* game development                                              
 * computer vision.
 
 I've done projects in Cryptography, robotics and software development.
 
 ### Tools i use:
-Blender, AutoCAD, vs code
+Blender, AutoCAD, VS code

@@ -1,6 +1,6 @@
 # Hey, Privet, Salut 
 ## Student | Aspiring Engineer | Technology Enthusiast
-    <img width="735" height="420" alt="download" src="https://github.com/user-attachments/assets/6439a1cf-e5eb-4115-b64b-15d82fac8492" />
+ <img width="735" height="420" alt="download" src="https://github.com/user-attachments/assets/6439a1cf-e5eb-4115-b64b-15d82fac8492" />
 
 ### *'What is better? To be born good, or to overcome your evil nature through great effort?'*- Skyrim            
 I love too take on more than I can, passionate about numbers, engineering and recently cybersecurity.

@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey, Privet, Salut 
+##Student | Aspiring Engineer | Technology Enthusiast
 
-<!--
-**sammy3-afk/sammy3-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###*'What is better? To be born good, or to overcome your evil nature through great effort?'*- Skyrim
+I love too take on more than I can, passionate about numbers, engineering and recently cybersecurity.
 
-Here are some ideas to get you started:
+I enjoy experimenting with ideas, learning new tools, and building projects that combine software with real-world applications.  
+###Currently working on:
+* learning C++
+* game development
+* computer vision.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've done projects in Cryptography, robotics and software development.
+
+###Tools i use:
+Blender, AutoCAD, vs code
